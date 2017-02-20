@@ -1,2 +1,2 @@
-# cs3240---labdemo
+# cs3240-labdemo
 Pre-Lab 5
